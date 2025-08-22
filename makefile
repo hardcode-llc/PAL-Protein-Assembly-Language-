@@ -1,5 +1,3 @@
-# Makefile for PAL Protein System
-
 # Python interpreter
 PYTHON=python3
 
