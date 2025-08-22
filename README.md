@@ -1,4 +1,4 @@
-# PAL Protein Simulation Demos
+# PAL Protein Simulation Demo
 
 ⚠️ **WARNING:**  
 
